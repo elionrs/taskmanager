@@ -31,7 +31,7 @@
       },
       "repoURL": {
         "type": "string",
-        "defaultValue": "https://script.google.com/macros/s/AKfycbzxaRiTHjYI86fj6hzcSrqiDLqcCoyBb8jvctq9UqouuZxtK3Mynmo_ejvatATjxBx_/exec",
+        "defaultValue": "https://github.com/Azure-Samples/azure-event-grid-viewer.git",
         "metadata": {
           "description": "The URL for the GitHub repository that contains the project to deploy."
         }
